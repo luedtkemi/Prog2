@@ -1,0 +1,41 @@
+﻿body {
+}
+
+
+ul{
+
+}
+
+h1{
+   text-align:center;
+   color:blue;
+   text-decoration:underline;
+
+}
+
+h2{
+   text-align:center;
+   font-family:'Agency FB';
+   color:black;
+   font-style:italic;
+}
+.navbar{
+   position:absolute;
+   top: 120px;
+   left: 10px;
+   height: 581px;
+}
+
+.body{
+   position:absolute;
+   left:155px;
+   top: 120px;
+   height: 518px;
+   width: 1142px;
+}
+.form1{
+   position:relative
+}
+.text{
+   text-align:right;
+}
